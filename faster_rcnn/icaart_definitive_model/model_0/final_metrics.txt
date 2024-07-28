@@ -1,0 +1,7 @@
+\begin{tabular}{rrr}
+\toprule
+      AP &     AP50 &     AP75 \\
+\midrule
+0.818895 & 0.983331 & 0.957198 \\
+\bottomrule
+\end{tabular}

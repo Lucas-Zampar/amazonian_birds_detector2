@@ -1,0 +1,2 @@
+model_name,backbone_name,learning_rate,num_epochs,train_shuffle,batch_size,img_size,presize
+mmdet.faster_rcnn,resnext101_32x4d_fpn_1x,0.0001,20,False,1,812,1024

@@ -1,0 +1,12 @@
+\begin{tabular}{lrrrrrr}
+\toprule
+ & precision & recall & f1-score & TP & FP & FN \\
+\midrule
+bem_te_vi & 0.976190 & 1.000000 & 0.987952 & 82 & 2 & 0 \\
+canario_do_amazonas & 0.968326 & 0.986175 & 0.977169 & 214 & 7 & 3 \\
+chupim & 0.941606 & 0.962687 & 0.952030 & 129 & 8 & 5 \\
+rolinha & 0.957447 & 0.967742 & 0.962567 & 90 & 4 & 3 \\
+sanhaco_da_amazonia & 0.954023 & 1.000000 & 0.976471 & 83 & 4 & 0 \\
+sanhaco_do_coqueiro & 0.925532 & 1.000000 & 0.961326 & 87 & 7 & 0 \\
+\bottomrule
+\end{tabular}
